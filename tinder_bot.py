@@ -1,7 +1,7 @@
 from time import sleep
 import pyautogui as cursor
 import random
-#Tinder bot for Tinder in web browser
+#Tinder bot for the Tinder app in web browser
 
 class Tinder:
     def __init__(self, x, y):

@@ -1,2 +1,2 @@
 # Mr Whobuntu
- Tinder bot
+ Tinder bot for the busy people.
